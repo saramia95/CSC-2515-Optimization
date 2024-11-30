@@ -1,0 +1,9 @@
+,Instance ID,Best Known Solution,Top-Down Heuristic,ML Heuristic,Partial ML Heuristic - Direct only,Partial ML Heuristic - Transshipment only,Top-Down + Partial ML Heuristic - Direct only,Top-Down + Partial ML Heuristic - Transshipment only,Top-Down + Full ML Heuristic
+0,8R-alpha=021_Flow_50perc_HubCosts_20perc,50230.51*,35.00%,5.14%,5.14%,0.00%,5.14%,0.00%,5.14%
+1,8R-alpha=021_Flow_50perc_HubCosts_5perc,50230.51*,35.00%,57.19%,0.41%,6.88%,2.00%,94.87%,N/A
+2,8R-alpha=021_Flow_60perc_HubCosts_20perc,72583.53*,40.59%,22.91%,22.91%,0.00%,22.91%,-0.00%,22.91%
+3,8R-alpha=021_Flow_60perc_HubCosts_5perc,72583.53*,40.59%,17.91%,0.00%,16.50%,5.18%,106.35%,N/A
+4,9R-alpha=021_Flow_50perc_HubCosts_20perc,51672.67*,45.22%,3.12%,79.56%,0.00%,49.11%,0.00%,51.69%
+5,9R-alpha=021_Flow_50perc_HubCosts_5perc,51672.67*,45.22%,59.02%,1.62%,59.92%,91.01%,N/A,N/A
+6,9R-alpha=021_Flow_60perc_HubCosts_20perc,85460.74*,35.00%,35.51%,6.11%,0.00%,7.86%,0.00%,13.70%
+7,9R-alpha=021_Flow_60perc_HubCosts_5perc,85460.74*,35.00%,38.01%,0.00%,21.08%,0.00%,N/A,N/A
